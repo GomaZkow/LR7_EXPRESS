@@ -1,0 +1,21 @@
+{
+  "pools": [
+    {
+      "id": 1,
+      "depth": "1.6m",
+      "width": "4.5m",
+      "length": "9m",
+      "temperature": "27°C",
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "updatedAt": "2025-06-17T15:20:17.997Z"
+    },
+    {
+      "id": 2,
+      "depth": "2m",
+      "width": "5m",
+      "length": "10m",
+      "temperature": "28°C",
+      "createdAt": "2023-01-02T00:00:00.000Z"
+    }
+  ]
+}
